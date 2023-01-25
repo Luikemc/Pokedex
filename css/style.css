@@ -9,7 +9,7 @@
 
 body {
   text-align: center;
-  background: linear-gradient(to bottom, #6ab7f5, #fff);
+  background: linear-gradient(to bottom, #066b15, rgb(115, 11, 11));
   min-height: 100vh;
 }
 
@@ -107,7 +107,7 @@ main {
 
 .overlay {
 
-  width: 0%;
+  width: 100%;
   height: 100%;
   background-color:rgb(96, 85, 85);
   background-color:rgb(0, 5, 0);
